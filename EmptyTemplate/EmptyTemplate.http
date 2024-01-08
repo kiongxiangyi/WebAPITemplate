@@ -1,0 +1,6 @@
+@WebApiTemplate_HostAddress = http://localhost:1234
+
+GET {{WebApiTemplate_HostAddress}}/
+Accept: application/json
+
+###
